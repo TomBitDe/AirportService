@@ -1,0 +1,4 @@
+#Configuration for the application-wide defaults
+global.jndi.prefix=
+module.name=
+application.name=AirportService
