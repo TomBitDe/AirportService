@@ -1,2 +1,2 @@
 # AirportService
-A RESTful Airport Service
+A REST Airport Service
